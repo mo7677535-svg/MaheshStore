@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "price": 50,
+    "desc": "Immerse yourself in crystal-clear audio with our state-of-the-art wireless headphones. Featuring advanced active noise cancellation technology, these headphones deliver studio-quality sound with deep bass and crisp highs. Enjoy 30-hour battery life, plush memory foam ear cushions, and seamless Bluetooth 5.0 connectivity. Perfect for audiophiles and professionals alike.",
+    "features": [
+      "Active Noise Cancellation (ANC)",
+      "30-hour playtime",
+      "Bluetooth 5.0 with 33ft range",
+      "Built-in microphone for calls",
+      "Foldable, travel-friendly design"
+    ],
+    "image": "../photo/headphone.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Advanced Smart Watch",
+    "price": 120,
+    "desc": "Stay connected and optimize your health with our flagship smartwatch. This feature-packed wearable offers comprehensive fitness tracking including heart rate monitoring, sleep analysis, and SpO2 measurement. With smartphone notifications, GPS tracking, and 7-day battery life, it's your perfect companion for both workouts and daily productivity. Water-resistant up to 50m.",
+    "features": [
+      "1.4\" AMOLED touch display",
+      "24/7 heart rate monitoring",
+      "100+ workout modes",
+      "Smart notifications",
+      "7-day battery life"
+    ],
+    "image": "../photo/watch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pro Gaming Mouse",
+    "price": 30,
+    "desc": "Dominate the competition with our professional-grade gaming mouse. Engineered for precision with a 12,000 DPI optical sensor and 6 programmable buttons. The ergonomic design reduces fatigue during extended gaming sessions, while customizable RGB lighting lets you personalize your setup. Ultra-responsive mechanical switches ensure lightning-fast clicks.",
+    "features": [
+      "12,000 DPI optical sensor",
+      "6 programmable buttons",
+      "Omron mechanical switches (50M clicks)",
+      "7-color RGB lighting",
+      "Braided fiber cable"
+    ],
+    "image": "../photo/mouse.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Laptop Stand",
+    "price": 25,
+    "desc": "Elevate your workspace with our premium aluminum laptop stand. Designed by ergonomics experts, this stand improves posture by raising your screen to eye level while enhancing airflow to prevent overheating. The sturdy yet lightweight design supports laptops up to 17\" and folds flat for easy transport. A must-have for home offices and coworking spaces.",
+    "features": [
+      "Aircraft-grade aluminum construction",
+      "Adjustable height (6\" to 10\")",
+      "Supports up to 15 lbs",
+      "Non-slip silicone pads",
+      "Folds to 0.5\" for portability"
+    ],
+    "image": "../photo/stand.jpg"
+  }
+]
